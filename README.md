@@ -1,2 +1,2 @@
-# leeman7.gihub.io
+# leeman7.github.io
 Website
